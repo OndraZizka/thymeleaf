@@ -1,5 +1,5 @@
 
-package cz.oz.thymeleaftry.cdi;
+package cz.oz.thymeleafcdi.cdi;
 
 /**
  *

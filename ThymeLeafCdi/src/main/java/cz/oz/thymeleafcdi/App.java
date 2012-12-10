@@ -1,7 +1,7 @@
-package cz.oz.thymeleaftry;
+package cz.oz.thymeleafcdi;
 
-import cz.oz.thymeleaftry.cdi.CDIThymeContext;
-import cz.oz.thymeleaftry.cdi.WeldVariablesResolver;
+import cz.oz.thymeleafcdi.cdi.CDIThymeContext;
+import cz.oz.thymeleafcdi.cdi.WeldVariablesResolver;
 import java.io.PrintWriter;
 import org.jboss.weld.environment.se.Weld;
 import org.jboss.weld.environment.se.WeldContainer;

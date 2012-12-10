@@ -1,5 +1,5 @@
 
-package cz.oz.thymeleaftry;
+package cz.oz.thymeleafcdi;
 
 import javax.inject.Singleton;
 

@@ -1,5 +1,5 @@
 
-package cz.oz.thymeleaftry.cdi;
+package cz.oz.thymeleafcdi.cdi;
 
 import java.util.Locale;
 import javax.enterprise.inject.spi.BeanManager;

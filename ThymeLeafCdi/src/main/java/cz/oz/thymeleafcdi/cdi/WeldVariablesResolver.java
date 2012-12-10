@@ -1,7 +1,7 @@
 
-package cz.oz.thymeleaftry.cdi;
+package cz.oz.thymeleafcdi.cdi;
 
-import cz.oz.thymeleaftry.TestBean;
+import cz.oz.thymeleafcdi.TestBean;
 import javax.enterprise.inject.spi.BeanManager;
 
 /**
